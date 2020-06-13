@@ -1,3 +1,6 @@
 # gamll0106 本地修改版本
+#gmall-user用户服务8080
 
-gmall-user用户服务8080
+
+gmall-user-service是用户服务的service层8070
+gmall-user-web是用户服务的web层8080
