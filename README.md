@@ -7,3 +7,6 @@ gmall-user-web是用户服务的web层8080
 
 gmall-manage-service是用户服务的service层8071
 gmall-manage-web是用户服务的web层8081
+
+#gmall-item-service是前台服务的service层8072
+gmall-item-web是前台服务的web层8082
